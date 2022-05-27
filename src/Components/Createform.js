@@ -34,10 +34,8 @@ const Createform = () => {
                     navigate('/')
                 })
                 .catch(err => console.log("post requet failed, error: ", err))
-                
             }
         } 
-        
     }, [formErrors])
 
     const validate = (values) => {

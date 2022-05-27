@@ -67,8 +67,3 @@ const Updateform = () => {
 
 export default Updateform
 
-
-// {/* <div className="m-3">
-//                     <label htmlFor="date" className="form-label">Date</label>
-//                     <input type="date" className="form-control" id="date" defaultValue={updateData.date} />
-//                 </div> */}
